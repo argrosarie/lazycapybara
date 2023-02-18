@@ -1,4 +1,4 @@
-import { registerImage } from "./lazyLoading";
+import { registerImage } from "./lazyLoading.js";
 
 const max = 739;
 const min = 1;
